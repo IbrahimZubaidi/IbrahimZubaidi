@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="132" viewBox="0 0 430 132" role="img" aria-label="cryptography-algorithms">
+<style>text{font-family:ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;}</style>
+<rect x="0.5" y="0.5" width="429" height="131" rx="12" fill="#0b0f14" stroke="#1f2933"/>
+<rect x="0.5" y="0.5" width="4" height="131" rx="2" fill="#f34b7d"/>
+<text x="22" y="34" fill="#39d353" font-size="16" font-weight="700">./cryptography-algorithms</text>
+<text x="410" y="33" fill="#6e7681" font-size="12" text-anchor="end">[crypto]</text>
+<text x="22" y="64" fill="#c9d1d9" font-size="13">DES, AES, RSA, ElGamal, Diffie-Hellman,</text>
+<text x="22" y="84" fill="#c9d1d9" font-size="13">digital signatures and elliptic curves, no libraries.</text>
+<circle cx="28" cy="111" r="5" fill="#f34b7d"/>
+<text x="40" y="115" fill="#6e7681" font-size="12">C++</text>
+</svg>
